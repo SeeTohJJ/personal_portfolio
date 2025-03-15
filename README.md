@@ -1,4 +1,4 @@
-# Portfolio is running at https://seetohjj.github.io/personal_portfolio/
+Portfolio is running at https://seetohjj.github.io/personal_portfolio/
 
 # React + Vite
 
