@@ -8,8 +8,8 @@ export const Home = () => {
                     Hi, I'm See Toh Jin Jie
                 </h1>
 
-                <p className="text-gray-400 text-lg md-8 max-w-lg mx-auto">
-                    I'm a Y2 student at NTU School of Computing, majoring in Computer Science. 
+                <p className="text-gray-400 text-lg md:text-xl leading-relaxed max-w-lg mx-auto">
+                    I'm a Year 3 student at NTU School of Computing, majoring in Computer Science. 
                     I'm passionate about software and game development, and I'm always looking for opportunities to learn and grow.
                 </p>
 

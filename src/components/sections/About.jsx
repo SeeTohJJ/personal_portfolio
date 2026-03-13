@@ -1,8 +1,8 @@
 import { RevealOnScroll } from "../RevealOnScroll";
 
 export const About = () => {
-    const frontendSkills = ["React", "Tailwind CSS"];
-    const backendSkills = ["Java", "Python", "C"];
+    const frontendSkills = ["React", "Flutter", "JavaScript"];
+    const backendSkills = ["Java", "Spring Boot", "SQL", "REST APIs"];
     const gameDevSkills = ["gdscript"];
     const otherSkills = ["HTML", "CSS", "Figma", "Aseprite"];
 
@@ -88,11 +88,14 @@ export const About = () => {
                             </div>
 
                             <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 transition-all">
+                                <h3 className="text-2xl font-bold mb-4">Experience</h3>
                                 <h4 className="font-semibold">
-                                            Airforce Technician (Flight Line Crew - Weapons) - Republic of Singapore Airforce (2021 - 2023)
+                                            Backend and Data Engineer Intern - Urban Redevelopment Authority (2025)
                                 </h4>
                                     <ul className="list-disc list-inside ml-4">
-                                        <li>Worked on the F-15SG Fighter Jet, handling weapons and loading them onto the aircraft.</li>
+                                        <li>Implemented an automated notification system in the One-Stop Developer Portal (OSDP) to notify users of discrepancies found between database schemas.</li>
+                                        <li>Standardized all email template headers for existing and future templates stored in the OSDP database</li>
+                                        <li>Assisted vendors with testing and documentation of new features awaiting deployment</li>
                                     </ul>
                                 <br />
                                 <h4 className="font-semibold">
