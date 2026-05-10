@@ -7,6 +7,7 @@ import { Home } from "./components/sections/Home";
 import { About } from "./components/sections/About";
 import { Projects } from "./components/sections/Projects";
 import { Contact } from "./components/sections/Contact";
+import { Experience } from "./components/sections/Experience";
 import "./index.css";
 
 function App() {
@@ -23,7 +24,8 @@ const [menuOpen, setMenuOpen] = useState(false);
           <Navbar menuOpen={menuOpen} setMenuOpen={setMenuOpen}/>
           <MobileMenu menuOpen={menuOpen} setMenuOpen={setMenuOpen}/>
           <Home />
-          <About />
+          {/* <About /> */}
+          <Experience />
           <Projects />
           <Contact />
 
