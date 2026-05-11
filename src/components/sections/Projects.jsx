@@ -11,7 +11,7 @@ export const Projects = () => {
                     Academic Projects
                 </h2>
 
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-6 w-full">
                     <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_10px_rgba(59,130,246,0.1)] transition-all">
                         <h3 className="text-2xl font-bold mb-4">SC2006 - RoadGuardian</h3>
                         <p className="text-lg text-gray-400">
@@ -38,7 +38,7 @@ export const Projects = () => {
                     Personal Projects
                 </h2>
 
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-6 w-full">
                     <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_10px_rgba(59,130,246,0.1)] transition-all">
                         <h3 className="text-2xl font-bold mb-4">Personal Portfolio</h3>
                         <p className="text-lg text-gray-400">
@@ -64,7 +64,7 @@ export const Projects = () => {
                     Achievements
                 </h2>
 
-                <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-6 w-full">
                     <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_10px_rgba(59,130,246,0.1)] transition-all">
                         <h3 className="text-2xl font-bold mb-4">IdeasJam 2025 - Error 404's Wellby</h3>
                         <p className="text-lg text-gray-400">
